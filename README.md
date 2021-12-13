@@ -1,5 +1,5 @@
-# Garbage-Level-Monitoring-System
-My BE Project using IoT, Cloud and Django
+# Garbage Management
+
 
 # Results
 
